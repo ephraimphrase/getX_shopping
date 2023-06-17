@@ -1,16 +1,3 @@
-# shopping_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![getX cart](https://github.com/ephraimphrase/getX_shopping/assets/87427477/07743fd8-67fb-4d45-a1b0-627aef02987b)
+![getX shopping](https://github.com/ephraimphrase/getX_shopping/assets/87427477/c7fb3219-6994-484d-b9b5-2361b08f0e37)
